@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 41e83f48583baa945baed314e64d46c8
+timeCreated: 1463167009
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - zero: {fileID: 130408, guid: 1ec0a7ec3602bf342bb98ab131158064, type: 2}
+  - one: {fileID: 180642, guid: 913bb1db9e001014c8fea33b5c6036ab, type: 2}
+  - two: {fileID: 119602, guid: df7641b4c9940d84da4ed54657a32459, type: 2}
+  - three: {fileID: 116954, guid: 1e358e44e8598124cbc149095e8bae3d, type: 2}
+  - hor: {fileID: 177054, guid: 2e9fcdcde1af34f44a12cd42cdec38a4, type: 2}
+  - vert: {fileID: 179644, guid: 33019a761d4277d45b4d31a1f0abc0b9, type: 2}
+  - cross: {fileID: 164420, guid: e5a1d328a3789f1499a5c6ce4b6c16ed, type: 2}
+  - wave: {fileID: 122240, guid: 1bbac0540360e764db3a5b60c8d112fa, type: 2}
+  - sensor: {fileID: 122240, guid: 1ea3febdd7a956f40b8d303409b9e165, type: 2}
+  - wallV: {fileID: 107904, guid: 24e76f0b2d4ec22488a16c7dee090ef1, type: 2}
+  - wallH: {fileID: 107904, guid: bd33f36a31a68a445ad6309de0a7950e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
